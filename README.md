@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Frappe](https://frappe.io/).
 - 🌱 I’m currently learning more about Python Django.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Jishnu vv).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCMjYbaMBPSkSh3hZNR7ONvQ).
 - 💬 Ask me about Frappe or Django .
 - 📫 How to reach me: Check social links below.
 
