@@ -33,7 +33,7 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jishnu-Epics&show_icons=true&theme=github_dark" />
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-Epics&layout=compact)](https://github.com/Jishnu-Epics/github-readme-stats)
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishnu-Epics&theme=gotham" />
 </p>
 
 ### ✍️Random Dev Quote
