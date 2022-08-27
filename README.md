@@ -22,7 +22,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Jishnu-Epics&theme=chartreuse-dark"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Jishnu-Epics&theme=react-dark"/>
 </p>
 
 ## 💳 Github Profile Summary Card
