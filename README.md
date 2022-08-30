@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Frappe](https://frappe.io/).
 - 🌱 I’m currently learning more about Python Django Framework.
-- 💬 Ask me about Frappe or Django .
+- 💬 Ask me about Frappe or Django Framework .
 - 📫 How to reach me: Check social links below.
 
 
