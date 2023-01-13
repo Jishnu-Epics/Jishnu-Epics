@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         width="45" /> I'm Jishnu V.V</h1>
+         width="30" /> I'm Jishnu V.V</h1>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
